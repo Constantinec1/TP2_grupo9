@@ -1,1 +1,0 @@
-abracadabra salabin. teste, teste                   teste, aurora, abracadabra fogo fogo aurora fogo fogo fogo fogo fogo gelo azul azul fogo gelo gelo azul, gelo, azul, azul, azul, azul, azul, azul

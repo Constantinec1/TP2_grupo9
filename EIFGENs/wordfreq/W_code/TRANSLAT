@@ -1,0 +1,12 @@
+wordfreq	SORTER	make	F982_7383	C1/so982.c
+wordfreq	SORTER	bubblesort_key	F982_7384	C1/so982.c
+wordfreq	SORTER	mergesort_key	F982_7385	C1/so982.c
+wordfreq	FREQ_COUNTER	temp_count	F983_7386	C1/fr983.c
+wordfreq	FREQ_COUNTER	make	F983_7387	C1/fr983.c
+wordfreq	FREQ_COUNTER	frequency	F983_7388	C1/fr983.c
+wordfreq	STOP_REMOVER	make	F984_7389	C1/st984.c
+wordfreq	STOP_REMOVER	remove_stops	F984_7390	C1/st984.c
+wordfreq	WORD_EXTRACTOR	util	F985_7391	C1/wo985.c
+wordfreq	WORD_EXTRACTOR	make	F985_7392	C1/wo985.c
+wordfreq	WORD_EXTRACTOR	extract_words	F985_7393	C1/wo985.c
+wordfreq	APPLICATION	make	F986_7394	C1/ap986.c
